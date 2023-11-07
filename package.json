@@ -1,0 +1,15 @@
+{
+  "name": "http-status",
+  "version": "1.0.0",
+  "description": "return a http status",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "murylomf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
